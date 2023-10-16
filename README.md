@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Noorullah Ahmadzai, also known as Noor
 - 👀 I’m interested in web technologies
 - 🌱 I’m currently learning about all things related to web
-- 💞️ I’m looking to collaborate on Full Stack Web Development in React and NodeJS
+- 💞️ I’m looking to collaborate on Full Stack JavaScript Development
 - 📫 How to reach me @noor_codes
 
 <!---
